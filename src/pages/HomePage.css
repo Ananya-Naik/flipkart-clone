@@ -1,0 +1,5 @@
+.main-content {
+  display: flex;
+  background: #f1f3f6;
+  min-height: 100vh;
+}
